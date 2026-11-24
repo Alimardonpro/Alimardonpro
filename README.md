@@ -8,34 +8,58 @@ Currently focusing on **Python, Django, JavaScript, TypeScript, and React Native
 
 ---
 
-### ABOUT
+## PROFILE
 
-- Currently developing personal and collaborative software projects.
-- Focused on backend architecture and mobile application development.
-- Exploring modern web technologies and API development.
-- Interested in software engineering, clean code, and scalable applications.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### TECHNOLOGIES
+**01 / BACKEND DEVELOPMENT**
 
-**Programming Languages**
+Python · Django · PHP · Laravel
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,html" />
-</p>
+Building backend systems, REST APIs and database-driven applications.
 
-**Frameworks & Libraries**
+</td>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=django,react,nextjs,nestjs,laravel,tailwind" />
-</p>
+**02 / MOBILE DEVELOPMENT**
 
-**Databases & Development Tools**
+React Native · TypeScript · JavaScript
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,nodejs,git,github,vscode" />
-</p>
+Developing cross-platform mobile applications with a focus on usability.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 / WEB DEVELOPMENT**
+
+Next.js · NestJS · Tailwind CSS
+
+Exploring modern web technologies and scalable application architecture.
+
+</td>
+<td width="50%" valign="top">
+
+**04 / DATABASE & TOOLS**
+
+MySQL · SQLite · Git · GitHub
+
+Working with databases, version control and development workflows.
+
+</td>
+</tr>
+</table>
 
 ---
+
+## TECHNOLOGY STACK
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,js,ts,php,react,nextjs,nestjs,laravel,tailwind,mysql,sqlite,git,github,vscode&perline=8" />
+</p>
 
 ### GITHUB ANALYTICS
 
