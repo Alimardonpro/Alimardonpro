@@ -1,24 +1,95 @@
-# 💫 About Me:
-I'm a student and aspiring software developer who enjoys learning new technologies and building practical projects. I'm currently focusing on Python, Django, JavaScript, and React Native. I believe in continuous learning, improving my skills, and turning ideas into real applications.
+# Hi there, I'm Alimardon 👋
 
+### 🚀 Aspiring Software Developer | Student | Tech Enthusiast
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Alimardonpro&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Alimardonpro&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alimardonpro&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a student and aspiring software developer passionate about building practical applications and exploring modern technologies.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Alimardonpro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I enjoy solving problems, learning new tools, and turning ideas into real-world projects. My current focus is on backend development with Python and Django, as well as mobile and web development using JavaScript, TypeScript, and React Native.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Alimardonpro&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 Currently working on personal and collaborative projects
+- 🌱 Learning and improving my skills in Django, React Native, and modern web technologies
+- 💡 Interested in Backend Development, Mobile Applications, and Software Engineering
+- 🎯 Goal: Become a skilled full-stack software developer
+- ⚡ Believe in continuous learning and building through practice
 
 ---
-[![](https://komarev.com/ghpvc/?username=Alimardonpro&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack & Tools
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Databases & Tools
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alimardonpro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alimardonpro&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Alimardonpro&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Alimardonpro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🚀 What I'm Working On
+
+- Building practical applications.
+- Improving my backend development skills with Python and Django.
+- Exploring mobile application development with React Native.
+- Learning modern web technologies and software architecture.
+- Collaborating with developers and contributing to projects.
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alimardonpro&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 "Great things are done by a series of small things brought together."
+
+**Thanks for visiting my profile!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Alimardonpro&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
+
+</div>
