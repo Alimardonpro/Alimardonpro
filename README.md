@@ -51,11 +51,6 @@ Working with databases, version control and development workflows.
   <img src="https://skillicons.dev/icons?i=python,django,js,ts,php,react,nextjs,nestjs,laravel,tailwind,mysql,sqlite,git,github,vscode&perline=8" />
 </p>
 
-## TECHNOLOGY STACK
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,js,ts,php,react,nextjs,nestjs,laravel,tailwind,mysql,sqlite,git,github,vscode&perline=8" />
-</p>
 
 ### GITHUB ANALYTICS
 
