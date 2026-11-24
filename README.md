@@ -1,59 +1,9 @@
-# ALIMARDON TOJIMURODOV
-
-**Software Developer | Backend & Mobile Development**
-
-I'm a software development student interested in building reliable applications and solving real-world problems through technology.
-
-Currently focusing on **Python, Django, JavaScript, TypeScript, and React Native**. I enjoy exploring new technologies, developing practical projects, and continuously improving my engineering skills.
-
----
-
-## PROFILE
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 / BACKEND DEVELOPMENT**
-
-Python · Django · PHP · Laravel
-
-Building backend systems, REST APIs and database-driven applications.
-
-</td>
-<td width="50%" valign="top">
-
-**02 / MOBILE DEVELOPMENT**
-
-React Native · TypeScript · JavaScript
-
-Developing cross-platform mobile applications with a focus on usability.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 / WEB DEVELOPMENT**
-
-Next.js · NestJS · Tailwind CSS
-
-Exploring modern web technologies and scalable application architecture.
-
-</td>
-<td width="50%" valign="top">
-
-**04 / DATABASE & TOOLS**
-
-MySQL · SQLite · Git · GitHub
-
-Working with databases, version control and development workflows.
-
-</td>
-</tr>
-</table>
-
----
+### ⟢ SYSTEM / PROFILE
+### ⟢ TECH STACK / ARSENAL
+### ⟢ GITHUB / ANALYTICS
+### ⟢ ACHIEVEMENTS / RANK
+### ⟢ ACTIVE / PROJECTS
+### ⟢ CONTRIBUTION / NETWORK
 
 ## TECHNOLOGY STACK
 
