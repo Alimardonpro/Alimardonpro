@@ -54,14 +54,6 @@ I enjoy solving problems, learning new tools, and turning ideas into real-world 
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Alimardonpro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub Achievements"/>
-
-</div>
-
 ## 🚀 What I'm Working On
 
 - Building practical applications.
