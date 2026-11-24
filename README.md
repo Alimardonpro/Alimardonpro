@@ -57,13 +57,6 @@ Currently focusing on **Python, Django, JavaScript, TypeScript, and React Native
 </p>
 
 ---
-
-### GITHUB TROPHIES
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alimardonpro&theme=flat&no-frame=true&no-bg=true&column=6" width="100%" />
-</p>
-
 ---
 
 <p align="center">
