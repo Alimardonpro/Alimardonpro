@@ -81,3 +81,26 @@ Working with databases, version control and development workflows.
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Alimardonpro&style=flat&color=539BF5&label=PROFILE+VIEWS" />
 </p>
+### ⟢ ACHIEVEMENT / UNLOCKED
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PULL_SHARK-x2-9D4EDD?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-UNLOCKED-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
+</p>
+
+**01 / PULL SHARK ×2**
+
+Successfully opened and merged pull requests.
+
+- [minna-arxiv #6](https://github.com/Asomiddin1/minna-arxiv/pull/6)
+- [minna-arxiv #76](https://github.com/Asomiddin1/minna-arxiv/pull/76)
+
+<sub>BRONZE ACHIEVEMENT · MAY 2</sub>
+
+**02 / YOLO**
+
+Merged a pull request without a review.
+
+- [minna-arxiv #15](https://github.com/Asomiddin1/minna-arxiv/pull/15)
+
+<sub>UNLOCKED · MAY 11</sub>
