@@ -1,3 +1,11 @@
+## OPEN TO COLLABORATION
+
+I'm passionate about building software together, not just working on individual projects. I enjoy collaborating with other developers, contributing to shared repositories, participating in open-source projects, and turning ideas into practical solutions as a team.
+
+**Teamwork · Open Source · Collaboration · Continuous Learning**
+
+---
+
 ## PROFILE
 
 <table>
@@ -37,7 +45,7 @@ Exploring modern web technologies and scalable application architecture.
 
 MySQL · SQLite · Git · GitHub
 
-Working with databases, version control and development workflows.
+Working with databases, version control and collaborative development workflows.
 
 </td>
 </tr>
