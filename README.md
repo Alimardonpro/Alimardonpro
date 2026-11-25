@@ -81,6 +81,9 @@ Working with databases, version control and development workflows.
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Alimardonpro&style=flat&color=539BF5&label=PROFILE+VIEWS" />
 </p>
+
+---
+
 ### ⟢ ACHIEVEMENT / UNLOCKED
 
 <p align="left">
@@ -96,6 +99,8 @@ Successfully opened and merged pull requests.
 - [minna-arxiv #76](https://github.com/Asomiddin1/minna-arxiv/pull/76)
 
 <sub>BRONZE ACHIEVEMENT · MAY 2</sub>
+
+---
 
 **02 / YOLO**
 
